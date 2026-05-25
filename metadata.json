@@ -1,0 +1,8 @@
+{
+  "name": "Remix: منصة استمارة الذكية",
+  "description": "منصة ذكية لإنشاء الاستمارات الإلكترونية بالذكاء الاصطناعي، تعبئة البيانات، ومراجعتها وتحميلها كملفات PDF عبر لوحة تحكم متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
